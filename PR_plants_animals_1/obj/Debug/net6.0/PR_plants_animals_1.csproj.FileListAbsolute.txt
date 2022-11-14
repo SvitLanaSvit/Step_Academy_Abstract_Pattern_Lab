@@ -1,0 +1,15 @@
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\bin\Debug\net6.0\PR_plants_animals_1.exe
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\bin\Debug\net6.0\PR_plants_animals_1.deps.json
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\bin\Debug\net6.0\PR_plants_animals_1.runtimeconfig.json
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\bin\Debug\net6.0\PR_plants_animals_1.dll
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\bin\Debug\net6.0\PR_plants_animals_1.pdb
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\obj\Debug\net6.0\PR_plants_animals_1.csproj.AssemblyReference.cache
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\obj\Debug\net6.0\PR_plants_animals_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\obj\Debug\net6.0\PR_plants_animals_1.AssemblyInfoInputs.cache
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\obj\Debug\net6.0\PR_plants_animals_1.AssemblyInfo.cs
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\obj\Debug\net6.0\PR_plants_animals_1.csproj.CoreCompileInputs.cache
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\obj\Debug\net6.0\PR_plants_animals_1.dll
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\obj\Debug\net6.0\refint\PR_plants_animals_1.dll
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\obj\Debug\net6.0\PR_plants_animals_1.pdb
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\obj\Debug\net6.0\PR_plants_animals_1.genruntimeconfig.cache
+D:\Programierung\UML\PR\PR_plants_animals_1\PR_plants_animals_1\obj\Debug\net6.0\ref\PR_plants_animals_1.dll
